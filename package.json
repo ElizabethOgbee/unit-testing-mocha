@@ -8,11 +8,12 @@
   },
   "author": "Elizabeth",
   "license": "ISC",
-  "dependencies": {
-    "mocha": "^10.2.0"
-  },
   "devDependencies": {
     "@types/chai": "^4.3.5",
-    "chai": "^5.0.0-alpha.1"
+    "chai": "^5.0.0-alpha.1",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.12"
   }
 }

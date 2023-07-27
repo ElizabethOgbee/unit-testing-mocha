@@ -1,6 +1,6 @@
 const MyClass = require("../src/myClass.js");
 const myObj = new MyClass();
-const chai = require  ("chai");
+const chai = require("chai");
 const expect = chai.expect;
 
 //we have to write a test suit we should write test cases inside it
